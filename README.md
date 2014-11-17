@@ -6,4 +6,4 @@ added from desktop
 
 done from shobhit-git2
 
-chnage 2 by owner
+change 2 by owner
